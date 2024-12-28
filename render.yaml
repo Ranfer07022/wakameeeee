@@ -1,7 +1,7 @@
 version: 1
 services:
   - type: web
-    name: わかめtube
+    name: ふーんそういう感じね？把握把握
     env: node
     plan: free
     buildCommand: npm install
